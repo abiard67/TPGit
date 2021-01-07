@@ -9,6 +9,7 @@ int main(int argc, char** argv) {
     cout << "La France" << endl;
     cout << "Champions du monde !" << endl;
     cout << "Arno casse tout" << endl;
+    cout << "Il me fatigue" << endl;
     return 0;
 }
 

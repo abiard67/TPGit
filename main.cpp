@@ -8,7 +8,7 @@ int main(int argc, char** argv) {
     cout << "Bonjour" << endl;
     cout << "La France" << endl;
     cout << "Champions du monde !" << endl;
-    cout << "Arno casse tout, notamment la chatte a sa soeur" << endl;
+    cout << "Arno casse tout, notamment le cul de son chien." << endl;
     return 0;
 }
 
